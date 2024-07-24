@@ -1,0 +1,8 @@
+circuitsvis==1.43.2
+datasets==2.18.0
+einops==0.8.0
+humanize==4.10.0
+jaxtyping==0.2.15
+torch==2.3.0
+tqdm==4.64.1
+transformer_lens==2.2.2
