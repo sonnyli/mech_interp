@@ -1,0 +1,15 @@
+.direnv
+*__pycache__
+*generate_*.py
+*drafts
+*colab
+*chunk_*.txt
+*.chroma
+*.pytest_cache
+*models
+*data
+*wandb
+*logs
+secrets.toml
+*.vscode
+*.bin
